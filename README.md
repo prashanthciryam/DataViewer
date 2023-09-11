@@ -18,7 +18,7 @@ At the top of the window, you'll find a search bar that allows you to filter thr
 
 The search bar defaults to 'Find'. When you enter a term in the search bar, it highlights any cells that contain the search string. Search terms are case-sensitive.
 
-Search terms may be submitted as individual strings (e.g. `synapse` or `YSLF`) or as a regular expression. A brief explanation of regular expressions will follow.
+Search terms may be submitted as individual strings (e.g. `synapse` or `YSLF`) or as a regular expression. Unless the `Use regex` box is ticked, `Find` (and `Find/replace`) will treat all characters literally. A brief explanation of regular expressions follows at the end of this section.
 
 Searches can search all cells or be limited to specific columns using the column select menu. The default is `All`.
 
