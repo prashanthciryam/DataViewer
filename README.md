@@ -5,6 +5,15 @@
 The Data Viewer is a graphical user interface (GUI) application designed to facilitate the handling of biological sequence data. This guide will walk you through the various features and functionalities you can expect when using this tool.
 
 ---
+## Getting started
+
+[Download for Mac here](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/prashanthciryam/DataViewer/tree/main/DataViewer_Mac)
+
+[Download for Windows here](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/prashanthciryam/DataViewer/tree/main/DataViewer_Windows)
+
+1. Download the appropriate DataViewer version for your OS
+2. Move the file to your desired location
+3. Open the folder and run the DataViewerApp executable (`DataViewerApp.app` or `DataViewerApp.exe`)
 
 ## Main Window
 
@@ -51,12 +60,6 @@ Below the Import/Export buttons, there are additional buttons for specific funct
 ---
 
 ## How To Use
-
-### Getting started
-
-1. Download the appropriate DataViewer version for your OS (`DataViewer_Mac` or `DataViewer_Windows`)
-2. Move the file to your desired location
-3. Open the folder and run the DataViewerApp executable (`DataViewerApp.app` or `DataViewerApp.exe`)
 
 ### To Import Data:
 
